@@ -47,6 +47,9 @@ NOTE: ACCESS THE CLASSES DIRECTLY OR DOWNLOAD THE ZIP FILE.
 
    java QuantumBookstoreFullTest
 
+## OUTPUT OF THE CODE
+![Screenshot 2025-07-08 204646](https://github.com/user-attachments/assets/23568bbe-648c-411e-8fd5-c769b596c0b5)
+
 ## Author
 
 This project was written manually in plain Java as part of an internship application. It follows the requirements provided in the task.
