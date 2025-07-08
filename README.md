@@ -50,3 +50,4 @@ NOTE: ACCESS THE CLASSES DIRECTLY OR DOWNLOAD THE ZIP FILE.
 ## Author
 
 This project was written manually in plain Java as part of an internship application. It follows the requirements provided in the task.
+Yomna Medhat Saad Hashem
